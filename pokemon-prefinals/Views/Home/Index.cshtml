@@ -1,0 +1,129 @@
+﻿@model List<PokemonApp.Models.Pokemon>
+@{
+    ViewData["Title"] = "Home Page";
+    int totalCount = ViewBag.TotalCount;
+    int pageSize = ViewBag.PageSize;
+    int currentPage = ViewBag.Page;
+    int totalPages = (int)Math.Ceiling((double)totalCount / pageSize);
+}
+
+<head>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: white;
+            color: black;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        
+        .h1{
+            font-family: 'Arial', sans-serif;
+        }
+
+        .ctn {
+            display: grid;
+            grid-template-columns: repeat(5, 4fr); /*   5 items per row */
+            gap: 1.5rem;
+            padding: 2rem;
+            overflow: hidden;
+            position: relative;
+            width: 100%;
+            justify-items: center;
+        }
+
+        .card {
+            padding: 1rem;
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border: 9px solid hidden;
+            border-radius: 8px;
+            background: white;
+            transition: transform 0.2s, border-color 0.2s;
+            width: 100%; 
+      
+        }
+
+            .card p {
+                text-transform: capitalize;
+                font-size: 1.2rem;
+                margin: 0.5rem 0 0;
+            }
+
+            .card:hover {
+                color: black;
+                border-color: #1b1313;
+                transform: scale(1.05);
+            }
+
+        .card-img {
+            width: 130px;
+            height: 130px;
+        }
+
+        .pagination-controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            border: none;
+            background-color: transparent; /* Make background transparent */
+            margin-top: 1rem;
+        }
+
+            .pagination-controls .page-link {
+                color: black;
+                text-decoration: none;
+                font-size: 2.5rem;  
+                padding: 0.5rem;
+                transition: color 0.3s ease;
+                cursor: pointer;
+                border: none;
+                background-color: transparent; /* Make background transparent */
+            }
+
+                .pagination-controls .page-link:hover {
+                    color: black;
+                    border: none;
+                    background-color: transparent; /* Make background transparent */
+
+                }
+    </style>    
+</head>
+
+<div class="text-left">
+    <h1 class="display-6 text-center">List of Pokémon</h1>
+
+    <div class="ctn">
+        @foreach (var pokemon in Model)
+        {
+            <a class="card" href='/pokemon/@pokemon.Id'>
+                <img src="@pokemon.SpriteUrl" class="card-img" />
+                <p>@pokemon.Name</p>
+            </a>
+        }
+    </div>
+
+    @if (ViewBag.TotalCount > ViewBag.PageSize)
+    {
+        <div class="pagination-controls">
+            <a class="page-link" href="?page=@(currentPage - 1)" aria-label="Previous">
+                <span aria-hidden="true">&lt;</span>
+            </a>
+            <span class="page-number">Page @(currentPage) of @(totalPages)</span>
+            <a class="page-link" href="?page=@(currentPage + 1)" aria-label="Next">
+                <span aria-hidden="true">&gt;</span>
+            </a>
+        </div>
+    }
+</div>

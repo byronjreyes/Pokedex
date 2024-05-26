@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\comgit\\pokemon-prefinals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|d:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\views\\pokemon\\pokemon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|solutionrelative:pokemon-prefinals\\views\\pokemon\\pokemon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|d:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|solutionrelative:pokemon-prefinals\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|d:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|solutionrelative:pokemon-prefinals\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|d:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\views\\shared\\_pokemonlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|solutionrelative:pokemon-prefinals\\views\\shared\\_pokemonlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|d:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\models\\pokemonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|solutionrelative:pokemon-prefinals\\models\\pokemonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|d:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|solutionrelative:pokemon-prefinals\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|d:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|solutionrelative:pokemon-prefinals\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|d:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E814472D-28A5-4017-A4AF-5A72AB91A18C}|pokemon-prefinals\\pokemon-prefinals.csproj|solutionrelative:pokemon-prefinals\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PokemonListPartial.cshtml",
+              "DocumentMoniker": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Views\\Shared\\_PokemonListPartial.cshtml",
+              "RelativeDocumentMoniker": "pokemon-prefinals\\Views\\Shared\\_PokemonListPartial.cshtml",
+              "ToolTip": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Views\\Shared\\_PokemonListPartial.cshtml",
+              "RelativeToolTip": "pokemon-prefinals\\Views\\Shared\\_PokemonListPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:08:24.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pokemon.cshtml",
+              "DocumentMoniker": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Views\\Pokemon\\Pokemon.cshtml",
+              "RelativeDocumentMoniker": "pokemon-prefinals\\Views\\Pokemon\\Pokemon.cshtml",
+              "ToolTip": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Views\\Pokemon\\Pokemon.cshtml",
+              "RelativeToolTip": "pokemon-prefinals\\Views\\Pokemon\\Pokemon.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAIAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:00:14.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "pokemon-prefinals\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "pokemon-prefinals\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:00:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "pokemon-prefinals\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "pokemon-prefinals\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwE8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T18:59:54.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokemonModel.cs",
+              "DocumentMoniker": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Models\\PokemonModel.cs",
+              "RelativeDocumentMoniker": "pokemon-prefinals\\Models\\PokemonModel.cs",
+              "ToolTip": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Models\\PokemonModel.cs",
+              "RelativeToolTip": "pokemon-prefinals\\Models\\PokemonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:59:42.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "pokemon-prefinals\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "pokemon-prefinals\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:59:40.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "pokemon-prefinals\\Controllers\\PokemonController.cs",
+              "ToolTip": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "pokemon-prefinals\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:59:25.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "pokemon-prefinals\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\comgit\\pokemon-prefinals\\pokemon-prefinals\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "pokemon-prefinals\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:59:08.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

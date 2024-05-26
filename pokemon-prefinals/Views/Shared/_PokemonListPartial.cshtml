@@ -1,0 +1,10 @@
+﻿@model List<PokemonApp.Models.Pokemon>
+
+@foreach (var pokemon in Model)
+{
+    <a class="card" href='/pokemon/@pokemon.Id'>
+        <img src="@pokemon.SpriteUrl" class="card-img"/>
+        <p>@pokemon.Name</p>
+    </a>
+}
+s
